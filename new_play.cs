@@ -1,7 +1,7 @@
 static void Main(string[] args)
             Console.WriteLine();
-            Console.WriteLine("Single Player mode: Starting position 0");  //as per UC1
-            Console.WriteLine("....Game Begins....");
+            Console.WriteLine("player1 mode: Starting position 0");  //as per UC1
+            Console.WriteLine("Game starts");
 
             //Variables
             int position = 0;
